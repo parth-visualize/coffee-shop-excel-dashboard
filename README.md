@@ -23,6 +23,12 @@ coffee-shop-sales-analysis/
 
 ---
 
+## DashBoard
+<img width="1027" height="632" alt="image" src="https://github.com/user-attachments/assets/62493093-4050-444b-ae65-796c04e4e27d" />
+
+![COFFEE SHOP SALES xlsx - Analysics_page-0001](https://github.com/user-attachments/assets/3729590a-f277-4ff8-9fd4-34b66c9524d5)
+
+
 ## 🗃️ Dataset Overview
 
 **Records:** 149,116 transactions  
