@@ -167,7 +167,7 @@ coffee-shop-sales-analysis/
 - **Weekdays outperform weekends** slightly, suggesting a strong commuter/office customer base.
 - **Large-size premium products** (Organic Coffee Lg, Dark Chocolate Lg) are top revenue drivers.
 
-<img src="Screenshot 2026-03-31 214437.png" alt="Alt text for the image" width="desired_width">
+<img src="coffee_shop_dashboard.png" alt="Alt text for the image" width="desired_width">
 
 ---
 
