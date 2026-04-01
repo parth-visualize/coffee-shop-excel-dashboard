@@ -174,6 +174,7 @@ coffee-shop-sales-analysis/
 ## 🙋‍♂️ Author
 
 **Parth**  
-🔗 [GitHub](https://github.com/parth-visualize)
+
+If you like this project, feel free to ⭐ the repository.
 
 ---
